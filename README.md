@@ -1,5 +1,7 @@
 # los-virus-informaticos
  
+ ![](https://lh3.googleusercontent.com/-Zl6lBCkA7aA/Wt-CadKrF6I/AAAAAAAAAQg/OK1jVzk0K_0dJI9IIwk-r-DVrrzW1MhLACL0BGAs/w530-d-h298-n-rw/Mad%2BaboutDumplings.jpg)
+ 
  ![](https://images.cooltext.com/5136265.png)
  
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
