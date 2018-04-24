@@ -70,3 +70,6 @@ Los antivirus son programas que fueron creados en la decada de los 80's con el o
 | accion directa | 50% | Microsoft security | 60% |  |
 | sobreestructura | 30% | AVG | 70% |  |
 | sector de arranque | 20% | bitdeferd | 90% |  |
+
+
+https://ramielwarrior.github.io/los-virus-informaticos/
