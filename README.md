@@ -61,6 +61,8 @@ Muchas páginas web incluyen código complejo para crear contenido interesante e
 
 Los antivirus son programas que fueron creados en la decada de los 80's con el objetivo de detectar y eliminar virus informáticos. ... Actualmente, los antivirus reconocen diferentes tipos de virus como malware, spyware, gusanos, troyanos, rootkits, etc.
 
+
+
 | virus informaticos | porcentaje de aparicion | antivirus | porcentaje de efectivo |  |
 |--------------------|-------------------------|--------------------|------------------------|---|
 | accion directa | 50% | Microsoft security | 60% |  |
