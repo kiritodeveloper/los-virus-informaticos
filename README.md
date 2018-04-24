@@ -1,4 +1,4 @@
-# los-virus-informaticos
+# Los-virus-informaticos
  
  ![](https://lh3.googleusercontent.com/-Zl6lBCkA7aA/Wt-CadKrF6I/AAAAAAAAAQg/OK1jVzk0K_0dJI9IIwk-r-DVrrzW1MhLACL0BGAs/w530-d-h298-n-rw/Mad%2BaboutDumplings.jpg)
  
@@ -9,7 +9,7 @@
 ## ¿Que es?
 Los virus son programas informáticos que tienen como objetivo alterar el  funcionamiento del computador, sin que el usuario se de cuenta. Estos, por lo general, infectan otros archivos del sistema con la intensión de modificarlos para destruir de manera intencionada archivos o datos almacenados en tu computador. Aunque no todos son tan dañinos. Existen unos un poco más inofensivos que se caracterizan únicamente por ser molestos.
 
-# tipos de virus
+# Tipos de virus
 
 ![](https://www.contramuro.com/wp-content/uploads/2018/01/virus-inform%C3%A1ticos-m%C3%A1s-peligrosos.jpg)
 
@@ -59,7 +59,7 @@ La tabla de asignación de archivos FAT es la parte del disco utilizada para alm
 
 Muchas páginas web incluyen código complejo para crear contenido interesante e interactivo. Este código es a menudo explotado por estos tipos de virus informáticos para producir ciertas acciones indeseables.
 
-## antivirus
+## Antivirus
 
 Los antivirus son programas que fueron creados en la decada de los 80's con el objetivo de detectar y eliminar virus informáticos. ... Actualmente, los antivirus reconocen diferentes tipos de virus como malware, spyware, gusanos, troyanos, rootkits, etc.
 
